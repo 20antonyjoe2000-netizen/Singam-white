@@ -1,7 +1,9 @@
-import type { NextConfig } from "next";
+import type { NextConfig } from "next"
 
 const nextConfig: NextConfig = {
-  /* config options here */
-};
+  images: {
+    // All images are served locally from public/photos/ — no external domains needed
+  },
+}
 
-export default nextConfig;
+export default nextConfig
