@@ -10,7 +10,7 @@ export function Hero() {
           alt="Elite performance coach Sivabalan Elango racing at Delhi Half Marathon"
           width={1000}
           height={700}
-          className="w-full h-[70vh] object-cover transition-transform duration-700 group-hover:scale-105"
+          className="w-full h-[70vh] object-cover object-top transition-transform duration-700 group-hover:scale-105"
           priority
         />
         <div className="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent" />

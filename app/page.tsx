@@ -1,6 +1,7 @@
 import { Nav } from "@/components/sections/nav"
 import { Hero } from "@/components/sections/hero"
 import { Principles } from "@/components/sections/principles"
+import { Coach } from "@/components/sections/coach"
 import { FullWidthBanner } from "@/components/sections/full-width-banner"
 import { Pricing } from "@/components/sections/pricing"
 import { Gallery } from "@/components/sections/gallery"
@@ -14,6 +15,7 @@ export default function Page() {
       <main>
         <Hero />
         <Principles />
+        <Coach />
         <FullWidthBanner />
         <Pricing />
         <Gallery />
