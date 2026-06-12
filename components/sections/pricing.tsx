@@ -6,14 +6,14 @@ const plans = [
   {
     name: "Foundational",
     tagline: "Precision programmed workouts.",
-    price: "$199",
+    price: "₹999",
     features: ["TrainingPeaks Access", "Weekly Plan Updates", "Basic Mobility Plan"],
     featured: false,
   },
   {
     name: "Championship",
     tagline: "1-on-1 performance management.",
-    price: "$349",
+    price: "₹2,999",
     features: [
       "Daily Bio-Feedback Review",
       "Bi-Weekly Strategy Calls",
@@ -25,7 +25,7 @@ const plans = [
   {
     name: "Olympic",
     tagline: "White-glove executive coaching.",
-    price: "$599",
+    price: "₹4,999",
     features: [
       "All Championship Features",
       "Unlimited Text Coaching",
